@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE58CCB91E40F1A200420237 /* ChangesForRebasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE58CCB81E40F1A200420237 /* ChangesForRebasing.swift */; };
 		CEA6FEF51E3AAC96001C98B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA6FEF41E3AAC96001C98B1 /* AppDelegate.swift */; };
 		CEA6FEF71E3AAC96001C98B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA6FEF61E3AAC96001C98B1 /* ViewController.swift */; };
 		CEA6FEFC1E3AAC96001C98B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEA6FEFB1E3AAC96001C98B1 /* Assets.xcassets */; };
@@ -52,6 +53,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE58CCB81E40F1A200420237 /* ChangesForRebasing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChangesForRebasing.swift; sourceTree = "<group>"; };
 		CEA6FEF11E3AAC96001C98B1 /* RealmTasksLite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealmTasksLite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEA6FEF41E3AAC96001C98B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEA6FEF61E3AAC96001C98B1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				CEA6FEFB1E3AAC96001C98B1 /* Assets.xcassets */,
 				CEA6FEFD1E3AAC96001C98B1 /* LaunchScreen.storyboard */,
 				CEA6FF001E3AAC96001C98B1 /* Info.plist */,
+				CE58CCB81E40F1A200420237 /* ChangesForRebasing.swift */,
 			);
 			path = RealmTasksLite;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE58CCB91E40F1A200420237 /* ChangesForRebasing.swift in Sources */,
 				CEA6FEF71E3AAC96001C98B1 /* ViewController.swift in Sources */,
 				CEA6FEF51E3AAC96001C98B1 /* AppDelegate.swift in Sources */,
 			);
@@ -543,6 +547,7 @@
 				CEA6FF1B1E3AAC96001C98B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CEA6FF1C1E3AAC96001C98B1 /* Build configuration list for PBXNativeTarget "RealmTasksLiteTests" */ = {
 			isa = XCConfigurationList;
@@ -551,6 +556,7 @@
 				CEA6FF1E1E3AAC96001C98B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CEA6FF1F1E3AAC96001C98B1 /* Build configuration list for PBXNativeTarget "RealmTasksLiteUITests" */ = {
 			isa = XCConfigurationList;
@@ -559,6 +565,7 @@
 				CEA6FF211E3AAC96001C98B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
