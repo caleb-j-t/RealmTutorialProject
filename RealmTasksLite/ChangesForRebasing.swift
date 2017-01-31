@@ -22,3 +22,5 @@ import Foundation
 // Commit 3 on Rebase (after Commit 2 on Develop)
 
 // Commit 4 on Rebase (after Commit 2 on Develop)
+
+// Commit 3 on Develop (after the rebase)
