@@ -10,4 +10,6 @@ import Foundation
 
 // Here I will track what happens with the changes. This was made on Develop after the initial commit.
 
-// Commit 1 on Develop (made after Commit 2 on Rebase)
+// Commit 1 on Develop (made after Commit 2 on Rebase) - before Commit 3 on Rebase
+
+// Commit 2 on Develop (made after Commit 2 on Rebase) - before Commit 3 on Rebase
