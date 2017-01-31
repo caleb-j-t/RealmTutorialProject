@@ -15,3 +15,5 @@ import Foundation
 // Commit 2 on Rebase
 
 // Commit 3 on Rebase (after Commit 2 on Develop)
+
+// Commit 4 on Rebase (after Commit 2 on Develop)
